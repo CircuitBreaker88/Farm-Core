@@ -1,4 +1,4 @@
-# PanPay Farming 🥞
+# PayB Farming 🥞
 
 [![Actions Status](https://github.com/CircuitBreaker88/Farm-Core/workflows/CI/badge.svg)](https://github.com/CircuitBreaker88/Farm-Core/actions)
 [![codecov](https://codecov.io/gh/paybswap/Farm-Core/branch/master/graph/badge.svg?token=5XMLP74IR0)](https://codecov.io/gh/paybswap/Farm-Core)
